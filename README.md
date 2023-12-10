@@ -1,5 +1,6 @@
 I'm Nagesh_bhimari AI& ML and Data Science Enthusiast Working on this Project
-IRIS CLASSIFICATION USING MACHINE LEARNING 
+IRIS CLASSIFICATION USING MACHINE LEARNING
+Here is the step by step procedure of working 
 1. Problem Definition:
 Define the problem you want to solve, whether it's classification, regression, or another task. For example, let's say you want to classify emails as spam or not spam.
 
